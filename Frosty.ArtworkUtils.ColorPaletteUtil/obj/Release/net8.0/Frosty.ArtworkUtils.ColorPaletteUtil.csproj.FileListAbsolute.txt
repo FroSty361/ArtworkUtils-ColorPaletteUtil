@@ -1,0 +1,13 @@
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\bin\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.deps.json
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\bin\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.dll
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\bin\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.pdb
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.csproj.AssemblyReference.cache
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.AssemblyInfoInputs.cache
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.AssemblyInfo.cs
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.csproj.CoreCompileInputs.cache
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.sourcelink.json
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.dll
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\refint\Frosty.ArtworkUtils.ColorPaletteUtil.dll
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.pdb
+C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\obj\Release\net8.0\ref\Frosty.ArtworkUtils.ColorPaletteUtil.dll

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Frosty.ArtworkUtils.ColorPaletteUtil</id>
+    <version>1.0.0</version>
+    <authors>Frosty.ArtworkUtils.ColorPaletteUtil</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Utility Class For Colors. Part Of The ArtworksUtils Product</description>
+    <tags>color colors art hex cli console utility frosty</tags>
+    <repository type="git" commit="6fa91403822fbfff9894df93b0dc1b01a253573c" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="System.Drawing.Common" version="9.0.4" exclude="Build,Analyzers" />
+        <dependency id="System.Windows.Extensions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\bin\Release\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.dll" target="lib\net8.0\Frosty.ArtworkUtils.ColorPaletteUtil.dll" />
+    <file src="C:\VisualStudioCodeProjects\Practice\C#\ArtWorkUtils\ColorPaletteUtil\Frosty.ArtworkUtils.ColorPaletteUtil\docs\README.md" target="\README.md" />
+  </files>
+</package>

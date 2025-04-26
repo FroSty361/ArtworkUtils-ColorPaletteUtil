@@ -1,4 +1,8 @@
-﻿using System;
+Frosty.ArtworkUtils.ColorPaletteUtil
+
+Utility Class For Colors. Part Of The ArtworksUtils Product
+
+using System;
 using System.Drawing;
 
 public static class ColorPalette
